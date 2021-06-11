@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728431278965",
+    "firebase_url": "https://esther-schatapp-default-rtdb.firebaseio.com",
+    "project_id": "esther-schatapp",
+    "storage_bucket": "esther-schatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728431278965:android:462da35aad9c1b05eff13c",
+        "android_client_info": {
+          "package_name": "com.example.estherschatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728431278965-6rftll6n2eckhkgipee34q9r4ffk701g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estherschatapp",
+            "certificate_hash": "ad725beff0711e4cd3c6a2293c228f025fd34d68"
+          }
+        },
+        {
+          "client_id": "728431278965-qk4elu1dhmh4nmt17tmjhm2ccubegi90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDugNgKIQQHl_a4HA16vWvcPZHtfAILqOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728431278965-qk4elu1dhmh4nmt17tmjhm2ccubegi90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

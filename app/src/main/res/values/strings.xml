@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Esther\'sChatApp</string>
+    <string name="enter_a_random_username" />
+    <string name="chatbox" />
+</resources>
